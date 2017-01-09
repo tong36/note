@@ -1,2 +1,2 @@
 # note
-前端note
+好记性不如note
